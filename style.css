@@ -1,0 +1,94 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header {
+    background-color: white;
+}
+
+body {
+    font-family: "Roboto", sans-serif;
+    background-color: aliceblue;
+  
+}
+/* ---- HEADER ---- */
+.logo-img{
+    padding-left: 20px;
+    display: inline-block;
+    vertical-align: middle;
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+
+.logo-text {
+    display: inline;
+    vertical-align: middle;
+    font-size: 40px;
+    font-weight: 900;
+
+}
+
+/* ---- /HEADER ---- */
+
+/* ---- MAIN ---- */
+.container {
+    
+    width: 800px;
+    margin: auto;
+    margin-top: 30px;
+    background-color: white;
+    padding-bottom: 10px;
+    
+   
+}
+
+button {
+    margin-top: 20px;
+    border: none;
+    cursor: pointer;
+    text-align: left;
+  
+    
+}
+
+.bottone-azzurro {
+
+    width:  80px;
+    height: 28px;
+    border-radius: 7px;
+    margin-left: 45px;
+    background-color: #1eb3fd;
+    color: white;
+    text-align: center;
+    position: relative;
+    top: 10px
+  }
+
+.bottone-grigio {
+
+    width:  80px;
+    height: 28px;
+    border-radius: 7px;
+    margin-left: 3px;
+    color: #c6cdd1;
+    text-align: center;
+    border: 1px solid #c6cdd1;
+    position: relative;
+    top: 10px
+    
+    
+}
+
+.hero {
+    margin-bottom: 10px;
+}
+
+.container2 {
+    width: 800px;
+    margin: auto;
+    margin-top: 10px;
+    background-color: white;
+    padding-bottom: 10px;
+}
