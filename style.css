@@ -92,3 +92,16 @@ button {
     background-color: white;
     padding-bottom: 10px;
 }
+
+/* ---- Pallini ---- */
+
+.pallino {
+    width: 20px;
+    height: 20px;
+    border: 1px solid #2cc6ab;
+    border-radius: 50%;
+    line-height: 20px;
+    text-align: center;
+    display: inline-block;
+    color: #2cc6ab;
+}
