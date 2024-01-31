@@ -34,6 +34,8 @@ body {
 /* ---- /HEADER ---- */
 
 /* ---- MAIN ---- */
+
+
 .container {
     
     width: 800px;
@@ -144,54 +146,27 @@ button {
     color: white;
     border-radius: 8px;
     padding: 5px 5px;
-    font-weight: 400;
-   
+    font-weight: 400; 
 }
 
 .goals {
-    background-color: #ab5de6;
-    font-size: 10px;
-    color: white;
-    border-radius: 8px;
-    padding: 5px 5px;
-    font-weight: 400;
-   
+    background-color: #ab5de6;  
 }
 
 .recruiting {
     background-color: #2cc6ab;
-    font-size: 10px;
-    color: white;
-    border-radius: 8px;
-    padding: 5px 5px;
-    font-weight: 400;
 }
 
 .summit {
     background-color: #ff9b00;
-    font-size: 10px;
-    color: white;
-    border-radius: 8px;
-    padding: 5px 5px;
-    font-weight: 400;
 }
 
 .website {
     background-color: #ec4a9d;
-    font-size: 10px;
-    color: white;
-    border-radius: 8px;
-    padding: 5px 5px;
-    font-weight: 400;
 }
 
 .sales {
     background-color: #add630;
-     font-size: 10px;
-    color: white;
-    border-radius: 8px;
-    padding: 5px 5px;
-    font-weight: 400;
 }
 
 /* -- /Span Color --- */
